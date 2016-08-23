@@ -23,7 +23,7 @@ module.exports = {
       arrayList.push(v.split(";"));
     });
     for(var i = 0; i < arrayList.length; i++){
-      scoreList.push(parseInt(arrayList[i][2]));
+      scoreList.push(parseFloat(arrayList[i][2]));
     };
 
     var indices = [];
