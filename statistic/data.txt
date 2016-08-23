@@ -1,0 +1,11 @@
+Nguyen Van A;20;10
+Nguyen Van C;21;65
+Phan Van A;22;6
+Phan Van B;23;15
+Pham Tuan Cuong;20;9
+Nguyen Van A;20;10
+Nguyen Van B;21;12
+Phan Van A;22;65
+Phan Van B;23;15
+Pham Tuan Cuong;20;8
+Phan Van B;23;65
